@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Terminal</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PNO</title>
+      <link>/tags/pno/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pno/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>/tags/tag2/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tag2/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>GDRS</title>
+      <link>/tags/gdrs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gdrs/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Loner</title>
+      <link>/tags/loner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/loner/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
